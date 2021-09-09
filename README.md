@@ -6,8 +6,8 @@
 
 Session	Topics
 ✅Session #0	Get bits installed and build your first Blazor app
-Session #1	Get started with components, create the app layout
-Session #2	Add customized pizzas to orders
+✅Session #1	Get started with components, create the app layout
+✅Session #2	Add customized pizzas to orders
 Session #3	Show order status
 Session #4	Refactor state management
 Session #5	Checkout with validation
